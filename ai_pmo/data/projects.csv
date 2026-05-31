@@ -1,0 +1,11 @@
+﻿id,name,customer,process,current_stage,progress,status,risk,next_action,due_date,remark,stage_entered_at,last_updated,created_at
+1,2/O AOI,新進,AOI,1,10.0,In Progress,LOW,確認需求文件,2026-06-30,機台尚未進機,2026-05-21T07:31:31,2026-05-31T07:31:31,2026-05-31T07:31:31
+10,AOI Agent,Internal,AOI,0,10.0,Planning,CRITICAL,確認需求文件,2026-09-01,流程設計中,2026-04-06T07:31:31,2026-05-04T07:31:31,2026-05-31T07:31:31
+9,Cleanroom Monitoring,Internal,Monitoring,3,30.0,In Progress,CRITICAL,完成模型訓練與驗證,2026-08-25,監控功能開發中,2026-04-11T07:31:31,2026-05-07T07:31:31,2026-05-31T07:31:31
+4,CoS Xray,新進,Xray,5,90.0,In Progress,LOW,確認正式上線計畫,2026-07-21,待確認正式上線,2026-05-06T07:31:31,2026-05-22T07:31:31,2026-05-31T07:31:31
+3,CoW Xray,新進,Xray,5,80.0,In Progress,LOW,確認正式上線計畫,2026-07-14,待確認正式上線,2026-05-11T07:31:31,2026-05-31T07:31:32,2026-05-31T07:31:31
+2,DUC,新進,AOI,4,80.0,In Progress,LOW,確認 API 格式,2026-07-07,待確認管理平台串接,2026-05-16T07:31:31,2026-05-31T07:31:32,2026-05-31T07:31:31
+8,Foundation Model,Internal,AI/ML,3,30.0,In Progress,CRITICAL,完成資料清理與前處理,2026-08-18,模型開發中,2026-04-16T07:31:31,2026-05-10T07:31:31,2026-05-31T07:31:31
+6,ICOS AMD,AMD,AOI,5,70.0,Waiting,CRITICAL,確認管理平台 API 規格,2026-08-04,待討論正式格式,2026-04-26T07:31:31,2026-05-16T07:31:31,2026-05-31T07:31:31
+7,ICOS TSMC,TSMC,AOI,5,100.0,Completed,LOW,文件歸檔,2026-08-11,格式尚未標準化,2026-04-21T07:31:31,2026-05-13T07:31:31,2026-05-31T07:31:31
+5,SAT,新進,SAT,0,0.0,Not Started,LOW,啟動需求商談,2026-07-28,尚未開始,2026-05-01T07:31:31,2026-05-19T07:31:31,2026-05-31T07:31:31
